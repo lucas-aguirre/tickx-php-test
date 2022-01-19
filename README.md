@@ -20,15 +20,15 @@ $ composer install
 ## Run commands
 To run the commands, you must use: 
 ```shell
-$ ./command _command_name_ _subcommand_ _parameters_
+$ ./minicli _command_name_ _subcommand_ _parameters_
 ```
 The default `help` command that comes with minicli (`app/Command/Help/DefaultController.php`) auto-generates a tree of available commands:
 ```shell
-$ ./command help
+$ ./minicli help
 ```
 _or_
 ```shell
-$ ./command character --help
+$ ./minicli character --help
 ```
 
 <br>
