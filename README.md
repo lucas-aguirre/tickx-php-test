@@ -44,8 +44,6 @@ Helpers: some additional helpers for the code
 - I didn't have time to do the unit tests and integration tests between the commands
 - Create a more organized interface for command responses
 
-Translated with www.DeepL.com/Translator (free version)
-
 <br>
 
 ## Author
