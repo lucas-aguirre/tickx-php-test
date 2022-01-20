@@ -40,6 +40,8 @@ Client: a client using the Guzzle library for HTTP calls;
 Command: directory where the commands to be used with minicli are stored;
 Helpers: some additional helpers for the code
 
+<br>
+
 ## TO-DO
 - I didn't have time to do the unit tests and integration tests between the commands
 - Create a more organized interface for command responses
